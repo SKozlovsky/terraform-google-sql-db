@@ -25,15 +25,6 @@ attributes:
   - name: name
     type: string
     required: true
-  - name: mysql_version
-    type: string
-    required: true
-  - name: region
-    type: string
-    required: true
-  - name: tier
-    type: string
-    required: true
   - name: reserved_range_name
     type: string
     required: true

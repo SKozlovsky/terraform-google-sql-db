@@ -25,15 +25,6 @@ attributes:
   - name: name
     type: string
     required: true
-  - name: database_version
-    type: string
-    required: true
-  - name: region
-    type: string
-    required: true
-  - name: tier
-    type: string
-    required: true
   - name: public_ip_address
     type: string
     required: true
